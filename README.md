@@ -1,2 +1,2 @@
 # Exercicios---Generation
-Exercícios feitos no bootcamp da Generation
+Exercícios e projetos feitos no bootcamp da Generation 
